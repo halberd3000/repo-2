@@ -1,0 +1,9 @@
+Отличаются тем, что в demo только пуговицы, а в master еще и ботинки и шляпа
+
+Всего 5 коммитов
+Комментарии:
+heat added
+boots
+README added
+dots
+fix readme
